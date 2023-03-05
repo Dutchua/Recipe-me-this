@@ -16,4 +16,17 @@ public class DatabaseConnection
             Console.WriteLine(e);
         }
     }
+
+    public static void Disconnect()
+    {
+        try
+        {
+            Connection.Close();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            throw;
+        }
+    }
 }
