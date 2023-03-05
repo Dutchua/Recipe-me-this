@@ -1,8 +1,9 @@
 ﻿# Default ignored files
 /shelf/
 /workspace.xml
+/obj/
 # Rider ignored files
-/.idea.recipe-me-this.iml
+/.idea/
 /contentModel.xml
 /projectSettingsUpdater.xml
 /modules.xml
