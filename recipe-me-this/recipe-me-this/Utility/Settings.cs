@@ -1,4 +1,4 @@
-﻿namespace recipe_me_this.Utitlity;
+﻿namespace recipe_me_this.Utility;
 
 public class Settings
 {
